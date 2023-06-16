@@ -1,11 +1,11 @@
-About r-gbutils
-===============
+About r-gbutils-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gbutils-feedstock/blob/main/LICENSE.txt)
 
 Home: https://geobosh.github.io/gbutils/
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gbutils-feedstock/blob/main/LICENSE.txt)
 
 Summary: Plot density and distribution functions with automatic selection of suitable regions. Numerically invert (compute quantiles) distribution functions. Simulate real and complex numbers from distributions of their magnitude and arguments. Optionally, the magnitudes and/or arguments may be fixed in almost arbitrary ways. Create polynomials from roots given in Cartesian or polar form. Small programming utilities: check if an object is identical to NA, count positional arguments in a call, set intersection of more than two sets, check if an argument is unnamed, compute the graph of S4 classes in packages.
 
